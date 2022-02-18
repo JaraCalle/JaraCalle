@@ -6,6 +6,5 @@ I'm Juan Jara from Colombia, student of programming and software development. I 
 ## Skills
 - Java
 - Python
-<div margin-left="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaraCalle&show_icons=true&theme=aura)
-</div>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaraCalle&show_icons=true&theme=aura)
